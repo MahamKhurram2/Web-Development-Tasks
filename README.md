@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-1. [Task 1: Image Slider](#Image Slider)
+1. [Task 1: Image Slider](#ImageSlider)
 2. [Task 2: Animated Website](#animatedwebsite)
 3. [Task 3: Facebook Login Page](#facebook-login-page)
 4. [Task 4: Food Recipe with Animations](#food-recipe-with-animations)
