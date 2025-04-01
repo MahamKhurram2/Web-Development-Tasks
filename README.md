@@ -1,6 +1,6 @@
-# TechNetCloud Internships Tasks
+# Web Development Tasks
 
- This repository contains the completed tasks for the internship program. Below is an overview of each task and its requirements.
+ This repository contains the completed  minor web development tasks. Below is an overview of each task and its requirements.
 
 ## Table of Contents
 
