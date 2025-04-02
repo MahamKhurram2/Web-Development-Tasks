@@ -7,7 +7,6 @@
 1. [Task 1: Image Slider](#ImageSlider)
 2. [Task 2: Animated Website](#animatedwebsite)
 3. [Task 3: Facebook Login Page](#facebook-login-page)
-4. [Task 4: Food Recipe with Animations](#food-recipe-with-animations)
 
 ## Task 1: Image Slider
 
@@ -26,9 +25,5 @@ An animated Website for a gadget selling company.
 ### Description
 Facebokk login page cretaed using html , css and javascript
 
-## Task 4: Food Recipe with Animations
-
-### Description
-A Food Recipe website with animations.
 
 
